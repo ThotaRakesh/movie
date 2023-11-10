@@ -1,0 +1,6 @@
+2023-11-09 14:02:09 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIESLIST" not found; SQL statement:
+insert into MOVIESLIST(movieName, leadActor) values(?, ?) [42102-214]
+2023-11-09 14:07:38 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIESLIST" not found; SQL statement:
+insert into MOVIESLIST(movieName, leadActor) values(?, ?) [42102-214]
